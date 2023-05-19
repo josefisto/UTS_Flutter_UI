@@ -8,7 +8,7 @@ Once you have prepared the necessary tools and prerequisites for the UI mobile d
 
 - Connect your mobile device to your computer using a USB cable. It is important to ensure that you have downloaded and installed the appropriate ADB (Android Debug Bridge) driver for your specific device. This step may vary depending on the device you are using. You can search for the specific instructions for your device online.
 
--Put your mobile device in Debug Mode. The  method to enable Debug Mode may vary depending on the device and the Android version you are using. Typically, you can enable it by going to the "Developer options" in the device settings. If you don't see the "Developer options" menu, you may need to enable it first. Again, you can find device-specific instructions online.
+- Put your mobile device in Debug Mode. The  method to enable Debug Mode may vary depending on the device and the Android version you are using. Typically, you can enable it by going to the "Developer options" in the device settings. If you don't see the "Developer options" menu, you may need to enable it first. Again, you can find device-specific instructions online.
 
 - Once your device is connected and in Debug Mode, you can clone the repository for the UI mobile design project to your local machine. You can use Git or simply download the project as a zip file and extract it to a desired location on your computer.
 
