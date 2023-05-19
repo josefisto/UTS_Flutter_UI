@@ -53,7 +53,9 @@ This project focuses on UI Mobile Design. I am using Visual Studio Code and util
 
 Once you have prepared the necessary tools and prerequisites for the UI mobile design project, you can proceed with the following steps:
 
-- Open Visual Studio Code (VSCode) and make sure you have installed the required extensions: Dart, Flutter, and Flutter Widget.
+- To set up Flutter, you need to follow the installation steps outlined in this tutorial video: 'https://m.youtube.com/watch?v=UyUdXQuV1_I'. Please follow the steps in the video until you are able to run and see the output on the emulator screen.
+
+Once you have completed the Flutter installation, open Visual Studio Code (VSCode) and ensure that you have installed the required extensions: Dart, Flutter, and Flutter Widget. 
 
 - Connect your mobile device to your computer using a USB cable. It is important to ensure that you have downloaded and installed the appropriate ADB (Android Debug Bridge) driver for your specific device. This step may vary depending on the device you are using. You can search for the specific instructions for your device online.
 
