@@ -77,11 +77,11 @@ flutter run
 
 # Output
 
-## Page Login
+## Login Page
 
 <img src="output/login_page.jpeg" height="500em" />
 
-## Page Register
+## Register Page
 
 <img src="output/register_page.jpeg" height="500em" />
 
